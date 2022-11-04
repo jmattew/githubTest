@@ -1,4 +1,5 @@
+apple();
 function apple()
 {
-    console.log("Hello World!");
+    console.log("Hello!");
 }
